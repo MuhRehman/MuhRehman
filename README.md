@@ -1,3 +1,6 @@
+
+
+<img src="https://unsplash.com/photos/e59Y6vqbL7Y">
 <h3> Hey! </h3>
 <h1> I'm Abdul Rehman </h1>
 
@@ -14,4 +17,10 @@ always passionate for learning more about tech and life. Abdul Rehman grew up de
 
 🔗  Portfolio Link : https://rehman-portfolio.netlify.app/
 
+
+
+📩   Feel free to contact him. He is always there for you...
+https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/
+https://twitter.com/paki_jan
+https://www.instagram.com/rehman_coding/
 
