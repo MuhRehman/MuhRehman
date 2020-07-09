@@ -1,9 +1,10 @@
 
 
-<img src="https://unsplash.com/photos/e59Y6vqbL7Y">
+
+
 <h3> Hey! </h3>
 <h1> I'm Abdul Rehman </h1>
-
+<img  style="center" src="https://i.postimg.cc/Nf247thy/black1-d3352fbc.png">
 <h4>Full-Stack Developer.</h4>
 always passionate for learning more about tech and life. Abdul Rehman grew up developing web scripts static websites and ever since he's a self taught web developer. From those humble beginnings, i'm evolved into a Full Stack Engineer who loves working with cutting edge tools and technologies, experimenting design×development integrations and keen to share my experience with people around the world. I  like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ !
 
@@ -19,8 +20,13 @@ always passionate for learning more about tech and life. Abdul Rehman grew up de
 
 
 
-📩   Feel free to contact him. He is always there for you...
-https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/
+📩   Feel free to contact me. 
+
 https://twitter.com/paki_jan
+
+https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/
+
 https://www.instagram.com/rehman_coding/
+
+
 
