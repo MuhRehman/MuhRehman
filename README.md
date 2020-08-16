@@ -16,17 +16,12 @@ always passionate for learning more about tech and life. Abdul Rehman grew up de
 
 💻   Contribute to Open Source Projects..<br>
 
-🔗  Portfolio Link : https://rehman-portfolio.netlify.app/
+🔗   Portfolio Link : https://rehman-portfolio.netlify.app/
 
+📩 ### You can also find me on:
 
+[<img align="left" alt="Dainokode linkedin" width="22px" src="https://github.com/Dainokode/Dainokode/blob/master/img/linkedin-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
 
-📩   Feel free to contact me. 
+[<img style="margin: 0 0.5rem;" align="left" alt="Dainokode twitter" width="22px" src="https://github.com/Dainokode/Dainokode/blob/master/img/twitter-icon.png" />](https://twitter.com/Dainokode)
 
-https://twitter.com/paki_jan
-
-https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/
-
-https://www.instagram.com/rehman_coding/
-
-
-
+[<img align="left" alt="Dainokode instagram" width="22px" src="https://github.com/Dainokode/Dainokode/blob/master/img/insta-icon.png" />](https://www.instagram.com/rehman_coding/)
