@@ -5,21 +5,19 @@
 <h3> Hey! </h3>
 <h1> I'm Abdul Rehman </h1>
 <img  style="center" src="https://i.postimg.cc/L4WrLHKY/ccehmanjpg.jpg">
-<h1>Full-Stack Developer.💻🙋🎓</h1>
-always passionate for learning more about tech and life. <br>
+<h1>
+always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
-👉 📚 Always learning new technologies to improve my skillset <br>
+
 👉 Foodie 🍔🍕🍗🍲🍰....<br>
 👉 I 💕to play Football .⚽🏃<br>
 👉 Hustle for more muscle 💪<br>
 
-👨🏻‍💻   Works at choroid  as Full Stack Engineer, a multinational  software company. <br>
 
-💬   People ask him about JavaScript / React, Redux, Node / Express,  MongoDB, etc.<br>
 
-📖   Learning about <br>
+💬    JavaScript / React, Redux, Node / Express,  MongoDB, etc.<br>
 
-💻   Contribute to Open Source Projects..<br>
+
 
 🔗   Portfolio Link : https://rehman-portfolio.netlify.app/
 
