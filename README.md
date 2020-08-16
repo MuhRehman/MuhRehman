@@ -15,7 +15,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
 
 
-💬    JavaScript / React, Redux, Node / Express,  MongoDB, etc.<br>
+💬   i have expertise in  JavaScript / React, Redux, Node / Express,  MongoDB, etc.<br>
 
 
 
