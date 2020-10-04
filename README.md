@@ -38,4 +38,4 @@ always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
 
 
-<img  style="center" src="https://i.postimg.cc/pT3rgg70/Rehman-Front-end-Developer-CV.png">
+<img  style="center" src="https://i.postimg.cc/63qTyT5d/Rehman-Front-end-Developer-CV.png">
