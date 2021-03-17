@@ -6,7 +6,20 @@
 <h1> I'm Abdul Rehman </h1>
 <img  style="center" src="https://i.postimg.cc/L4WrLHKY/ccehmanjpg.jpg">
 <h1>
-always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
+always passionate for learning more about tech and life..💻🙋🎓</h1> 
+
+
+
+
+
+💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br><br>
+<h4>Technologies & Languages</h4>
+HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)
+JavaScript ES6 (Vanilla, jQuery plugins, JSON)
+React (Hooks, Express, JSX, Webpack, Babel)
+Node, JSON web token, Axios, Bcrypt
+SQL (PostgreSQL, SQLAlchemy, Marshmallow) 
+
 
 
 👉 Foodie 🍔🍕🍗🍲🍰....<br>
@@ -15,7 +28,11 @@ always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
 
 
-💬   i have expertise in  JavaScript / React, Redux, Node / Express,  MongoDB, etc.<br>
+
+
+
+
+<br>
 
 
 
@@ -38,4 +55,4 @@ always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
 
 
-<img  style="center" src="https://i.postimg.cc/Wpr8ccSQ/Rehman-Front-end-Developer-CV.png">
+<img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-Front-end-Developer-CV.PNG">
