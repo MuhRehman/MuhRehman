@@ -63,4 +63,4 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-<img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-Front-end-Developer-CV.PNG">
+<img align="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-Front-end-Developer-CV.PNG" width="900" height="1620">
