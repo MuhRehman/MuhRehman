@@ -4,7 +4,7 @@
 
 <h3> Hey! </h3>
 <h1> I'm Abdul Rehman </h1>
-<img  style="center" src="https://i.postimg.cc/L4WrLHKY/ccehmanjpg.jpg">
+<img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-timeline.jpg">
 <h1>
 always passionate for learning more about tech and life..💻🙋🎓</h1> 
 
@@ -14,11 +14,20 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br><br>
 <h4>Technologies & Languages</h4>
-HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)
-JavaScript ES6 (Vanilla, jQuery plugins, JSON)
-React (Hooks, Express, JSX, Webpack, Babel)
-Node, JSON web token, Axios, Bcrypt
-SQL (PostgreSQL, SQLAlchemy, Marshmallow) 
+<ul>
+<li>HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)</li>
+<li>JavaScript ES6 (Vanilla, jQuery plugins, JSON)</li>
+<li>React (Hooks, Express, JSX, Webpack, Babel)
+</li>
+<li>Node, JSON web token, Axios, Bcrypt
+</li>
+<li>SQL (PostgreSQL, SQLAlchemy, Marshmallow) 
+</li>
+
+
+</ul>
+
+
 
 
 
