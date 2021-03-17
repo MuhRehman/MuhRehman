@@ -25,11 +25,11 @@ always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
 
 
-[<img align="left" alt="Dainokode linkedin" width="32px" src="https://github.com/Dainokode/Dainokode/blob/master/img/linkedin-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
+[<img align="left" alt="Dainokode linkedin" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
 
-[<img style="margin: 0 0.5rem;" align="left" alt="Dainokode twitter" width="32px" src="https://github.com/Dainokode/Dainokode/blob/master/img/twitter-icon.png" />](https://twitter.com/paki_jan)
+[<img style="margin: 0 0.5rem;" align="left" alt="Dainokode twitter" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" />](https://twitter.com/paki_jan)
 
-[<img align="left" alt="Dainokode instagram" width="32px" src="https://github.com/Dainokode/Dainokode/blob/master/img/insta-icon.png" />](https://www.instagram.com/rehman_coding/)
+[<img align="left" alt="Dainokode instagram" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" />](https://www.instagram.com/rehman_coding/)
 <br>
 
 
@@ -38,4 +38,4 @@ always passionate for learning more about tech and life..💻🙋🎓</h1> <br>
 
 
 
-<img  style="center" src="https://i.postimg.cc/63qTyT5d/Rehman-Front-end-Developer-CV.png">
+<img  style="center" src="https://i.postimg.cc/Wpr8ccSQ/Rehman-Front-end-Developer-CV.png">
