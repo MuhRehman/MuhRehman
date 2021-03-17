@@ -15,7 +15,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br><br>
 <h4>Technologies & Languages</h4>
 <ul>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 ✅ HTML & CSS ( SCSS, Bootstrap, Responsive, Flexbox, Animations)
 ✅ JavaScript ES6 (Vanilla, jQuery plugins, JSON)
 ✅ React (Hooks, Express, JSX, Webpack, Babel)
