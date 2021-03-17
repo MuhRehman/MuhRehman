@@ -15,14 +15,13 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br><br>
 <h4>Technologies & Languages</h4>
 <ul>
-<li>HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)</li>
-<li>JavaScript ES6 (Vanilla, jQuery plugins, JSON)</li>
-<li>React (Hooks, Express, JSX, Webpack, Babel)
-</li>
-<li>Node, JSON web token, Axios, Bcrypt
-</li>
-<li>SQL (PostgreSQL, SQLAlchemy, Marshmallow) 
-</li>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+✅ HTML & CSS ( SCSS, Bootstrap, Responsive, Flexbox, Animations)
+✅ JavaScript ES6 (Vanilla, jQuery plugins, JSON)
+✅ React (Hooks, Express, JSX, Webpack, Babel)
+✅ Node, JSON web token, Axios,
+✅ SQL (PostgreSQL, SQLAlchemy, Marshmallow) 
+
 
 
 </ul>
