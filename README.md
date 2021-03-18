@@ -46,7 +46,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 🔗  <h5> Portfolio Link :</h5> https://rehman-portfolio.netlify.app/
 
-<h6 align="center">📩   You can also find me on:</h6>
+<h2>📩   You can also find me on:   </h2>
 
 
 
