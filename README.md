@@ -51,11 +51,11 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-[<img align="center" alt="Rehman linkedin" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
+[<img  alt="Rehman linkedin" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
 
-[<img align="center" style="margin: 0 0.5rem;"  alt="Rehman twitter" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" />](https://twitter.com/paki_jan)
+[<img style="margin: 0 0.5rem;"  alt="Rehman twitter" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" />](https://twitter.com/paki_jan)
 
-[<img align="center" alt="Rehman instagram" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" />](https://www.instagram.com/rehman_coding/)
+[<img alt="Rehman instagram" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" />](https://www.instagram.com/rehman_coding/)
 <br>
 
 
