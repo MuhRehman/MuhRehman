@@ -32,7 +32,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
  <h1>Languages and Tools:</h1>
 
-
+<img  src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif"/>
 
 <br><br><br>
 
