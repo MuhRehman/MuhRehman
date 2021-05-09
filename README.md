@@ -34,12 +34,9 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 👉 I 💕to play Football .⚽🏃<br>
 👉 Hustle for more muscle 💪<br>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhRehman" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhRehman" />
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MuhRehman&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats )
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhRehman&theme=blue-green)
 
 
 <br>
@@ -62,8 +59,5 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-👉 Here is My Resume :
+👉 Here is My  <a href="https://rehman-portfolio.netlify.app/">Resume</a>:
 
-
-
-<img align="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-Front-end-Developer-CV.PNG" width="900" height="1220">
