@@ -17,9 +17,9 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 👉 I 💕to play Football .⚽🏃<br>
 👉 Hustle for more muscle 💪<br>
 <br>
-<h4>Technologies & Languages</h4>
+<h1>Technologies & Languages</h1>
 <ul>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="220" />
+ <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
 ✅ HTML & CSS ( SCSS, Bootstrap, Responsive, Flexbox, Animations)<br>
 ✅ JavaScript ES6 (Vanilla, jQuery plugins, JSON)<br>
 ✅ React (Hooks, Express, JSX, Webpack, Babel)<br>
@@ -30,9 +30,9 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 </ul>
 
- <h1>Languages and Tools:</h1>
 
-<img  src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif"/>
+
+<img width="232px"   />
 
 <br><br><br>
 
