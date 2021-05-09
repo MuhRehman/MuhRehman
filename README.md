@@ -12,7 +12,11 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br><br>
+💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br>
+👉 Foodie 🍔🍕🍗🍲🍰....<br>
+👉 I 💕to play Football .⚽🏃<br>
+👉 Hustle for more muscle 💪<br>
+<br>
 <h4>Technologies & Languages</h4>
 <ul>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="220" />
@@ -30,16 +34,10 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-👉 Foodie 🍔🍕🍗🍲🍰....<br>
-👉 I 💕to play Football .⚽🏃<br>
-👉 Hustle for more muscle 💪<br>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhRehman" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhRehman" />
-
-
-
-<br>
 
 
 
