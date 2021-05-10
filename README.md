@@ -30,7 +30,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 </ul>
 
- <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/react-animation-logo1.gif" width="150" height="120" />
+ <img align="left" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/react-animation-logo2.gif" width="150" height="120" />
 
 
 <img width="232px"   />
