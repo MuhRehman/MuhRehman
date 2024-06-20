@@ -70,7 +70,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-🔗  <h5> Portfolio Link :</h5> https://a-rehman.com
+🔗  <h2> Portfolio Link : https://a-rehman.com</h2>
 
 <h2>📩   You can also find me on:   </h2>
 
