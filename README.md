@@ -22,7 +22,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 [![Linkedin Badge](https://img.shields.io/badge/-AbdulRehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)](https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)
 [![Gmail Badge](https://img.shields.io/badge/-abdulrehman1@aol.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulrehman1@aol.com)](mailto:abdulrehman1@aol.com)
 
-
+<img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <h1>Technologies & Languages</h1>
 <ul>
  <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
