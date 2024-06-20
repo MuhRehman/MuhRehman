@@ -86,5 +86,5 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-👉 Here is My  <a href="https://rehman-portfolio.netlify.app/">Resume</a>:
+👉 <h1>Here is My  <a href="https://a-rehman.com/resume">Resume</a>:</h1>
 
