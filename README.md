@@ -70,7 +70,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-🔗  <h2> Portfolio Link : <a href="https://muhrehman.github.io/Portfolio/"> www.rehman.com </a>  </h2>
+🔗  <h2> Portfolio Link : <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman Portfolio </a>   </h2>
 
 <h2>📩   You can also find me on:   </h2>
 
@@ -86,5 +86,5 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 
 
-👉 <h1>Here is My  <a href="https://a-rehman.com/resume">Resume</a>:</h1>
+👉 <h1>Here is My  <a href="https://muhrehman.github.io/Portfolio/resume">Resume</a>:</h1>
 
