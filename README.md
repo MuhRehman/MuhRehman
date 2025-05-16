@@ -3,7 +3,7 @@
 
 <h3> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="40" height="40" >  </h3> 
 
-<h1> I'm <a href="https://muhrehman.github.io/portfolio/">Abdul Rehman</a>  ... ! </h1>
+<h1> I'm <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman</a>  ... ! </h1>
 <img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-timeline.jpg">
 <h1>
 always passionate for learning more about tech and life..💻🙋🎓</h1> 
