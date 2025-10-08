@@ -68,11 +68,11 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhRehman" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhRehman" />
 
-
+<h2>📩   You can also find me on:   </h2>
 
 🔗  <h2> Portfolio Link : <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman Portfolio </a>   </h2>
 
-<h2>📩   You can also find me on:   </h2>
+
 
 💻 Types of Projects I’ve Worked On (React, HTML, CSS, JavaScript)
 
