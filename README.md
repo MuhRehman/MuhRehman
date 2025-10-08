@@ -117,3 +117,8 @@ Built adaptive layouts with CSS Grid, Flexbox, and media queries, improving load
 
 <h1> 👉  My updated <a href="https://muhrehman.github.io/Portfolio/resume"><b>Resume </b></a> is attached for your consideration.. </h1>
 
+📫 Let’s Connect
+
+   💼 LinkedIn
+ | 🌐 Portfolio
+ | 🐙 GitHub
