@@ -115,5 +115,5 @@ Built adaptive layouts with CSS Grid, Flexbox, and media queries, improving load
 
 
 
-👉 <h1>Here is My  <a href="https://muhrehman.github.io/Portfolio/resume">Resume</a>:</h1>
+<h1> 👉  My updated <a href="https://muhrehman.github.io/Portfolio/resume"><b>Resume </b></a> is attached for your consideration.. </h1>
 
