@@ -68,7 +68,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhRehman" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhRehman" />
 
-<h2>📩   You can also find me on:   </h2>
+
 
 🔗  <h2> Portfolio Link : <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman Portfolio </a>   </h2>
 
@@ -96,7 +96,7 @@ Developed scalable React UI kits with Storybook and Material UI to streamline de
 📱 5. Responsive UI Development
 Built adaptive layouts with CSS Grid, Flexbox, and media queries, improving load speed and accessibility.
 
-
+<h1>📩   You can also find me on:   </h1>
 [<img align="left"  alt="Rehman linkedin" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
 
 [<img align="left" style="margin: 0 0.5rem;"  alt="Rehman twitter" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" />](https://twitter.com/paki_jan)
