@@ -74,7 +74,27 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 <h2>📩   You can also find me on:   </h2>
 
+💻 Types of Projects I’ve Worked On (React, HTML, CSS, JavaScript)
 
+Over the past five years, I’ve developed a range of front-end and UI-focused projects, including:
+
+🧭 1. Interactive Dashboards & Admin Panels
+Built responsive, data-driven dashboards using React, Redux, and REST APIs.
+Implemented charts, real-time updates, and reusable components for analytics and reporting.
+
+🛍️ 2. E-Commerce Applications
+Developed product pages, shopping carts, and checkout flows with React Hooks and React Router.
+Ensured mobile responsiveness and cross-browser support using HTML5, CSS3, and Flexbox/Grid.
+
+🌐 3. Company Portfolios & Business Websites
+Created clean, modern front-ends using React, JavaScript, and Tailwind CSS.
+Converted Figma/Photoshop designs into pixel-perfect, SEO-friendly web pages with smooth animations.
+
+🧩 4. Reusable Component Libraries
+Developed scalable React UI kits with Storybook and Material UI to streamline development.
+
+📱 5. Responsive UI Development
+Built adaptive layouts with CSS Grid, Flexbox, and media queries, improving load speed and accessibility.
 
 
 [<img align="left"  alt="Rehman linkedin" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" />](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
