@@ -97,12 +97,20 @@ Developed scalable React UI kits with Storybook and Material UI to streamline de
 Built adaptive layouts with CSS Grid, Flexbox, and media queries, improving load speed and accessibility.
 
 <h1>📩   You can also find me on:   </h1>
-[<img align="left" style="margin: 0 0.5rem;"   alt="Rehman linkedin" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" />]
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" alt="LinkedIn" width="32" style="margin-right:10px;" />
+  </a>
+  <a href="https://twitter.com/paki_jan" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" alt="Twitter" width="32" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.instagram.com/rehman_coding/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" alt="Instagram" width="32" />
+  </a>
+</p>
 
 
-[<img align="left" style="margin: 0 0.5rem;"  alt="Rehman twitter" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" />](https://twitter.com/paki_jan)
-
-[<img align="left" alt="Rehman instagram" width="32px" src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" />](https://www.instagram.com/rehman_coding/)
 <br>
 
 
