@@ -27,11 +27,12 @@ always passionate for learning more about tech and life..💻🎓</h1>
 <h1>Technologies & Languages</h1>
 <ul>
  <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
-✅ HTML & CSS ( SCSS, Bootstrap, Responsive, Flexbox, Animations)<br>
+✅ HTML & CSS ( Tailwind , Bootstrap, Responsive, Flexbox, Animations)<br>
 ✅ JavaScript ES6 (Vanilla, jQuery plugins, JSON)<br>
-✅ React (Hooks, Express, JSX, Webpack, Babel)<br>
+✅ React (Hooks, Redux toolkit, Zustand, JSX, Vite, Webpack, Babel)<br>
 ✅ Node, JSON web token, Axios,<br>
 ✅ MongoDB  <br>
+✅ Wordpress ( WordPress themes, Elementor , Divi Builder )  <br>
 
 
 
