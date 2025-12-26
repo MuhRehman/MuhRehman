@@ -7,7 +7,7 @@
 <img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/github-profile-cover.png">
 <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <h1>
-always passionate for learning more about tech and life..💻🙋🎓</h1> 
+always passionate for learning more about tech and life..💻🎓</h1> 
 
 
 <div></div>
