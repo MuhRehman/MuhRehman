@@ -62,11 +62,7 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 </p>
 
 
-
-
-
-
-🔗  <h2> Portfolio Link : <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman Portfolio </a>   </h2>
+ <h2> Portfolio Link : <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman Portfolio </a>   </h2>
 
 
 
@@ -74,44 +70,67 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 Over the past five years, I’ve developed a range of front-end and UI-focused projects, including:
 
-🧭 1. Interactive Dashboards & Admin Panels
-Built responsive, data-driven dashboards using React, Redux, and REST APIs.
-Implemented charts, real-time updates, and reusable components for analytics and reporting.
+1. Interactive Dashboards and Admin Panels
 
-🛍️ 2. E-Commerce Applications
-Developed product pages, shopping carts, and checkout flows with React Hooks and React Router.
-Ensured mobile responsiveness and cross-browser support using HTML5, CSS3, and Flexbox/Grid.
+Developed responsive, data-driven dashboards using React, Redux, and REST APIs.
 
-🌐 3. Company Portfolios & Business Websites
-Created clean, modern front-ends using React, JavaScript, and Tailwind CSS.
-Converted Figma/Photoshop designs into pixel-perfect, SEO-friendly web pages with smooth animations.
+Implemented data visualization, real-time updates, and reusable components for analytics and reporting.
 
-🧩 4. Reusable Component Libraries
-Developed scalable React UI kits with Storybook and Material UI to streamline development.
+2. E-Commerce Application Development
 
-📱 5. Responsive UI Development
-Built adaptive layouts with CSS Grid, Flexbox, and media queries, improving load speed and accessibility.
+Built product listing pages, shopping carts, and checkout workflows using React Hooks and React Router.
 
-<h1>📩   You can also find me on:   </h1>
+Ensured mobile responsiveness and cross-browser compatibility using HTML5, CSS3, Flexbox, and CSS Grid.
+
+3. Company Portfolios and Business Websites
+
+Created modern, SEO-friendly front-end interfaces using React, JavaScript, and Tailwind CSS.
+
+Converted Figma and Photoshop designs into pixel-perfect, high-performance web pages with smooth UI animations.
+
+4. Reusable UI Component Libraries
+
+Developed scalable and maintainable React component libraries using Storybook.
+
+Implemented UI frameworks including Bootstrap, Tailwind CSS, and Material UI to standardize design systems.
+
+5. Responsive and Accessible UI Development
+
+Designed adaptive layouts using CSS Grid, Flexbox, and media queries.
+
+Improved website performance, accessibility, and load times across desktop and mobile devices.
+
+6. WordPress Theme Development and Page Builders
+
+Developed custom WordPress themes and templates from scratch.
+
+Built and customized websites using Elementor and Divi Builder.
+
+Optimized WordPress sites for performance, responsiveness, and SEO.
+
+<h2>Connect with Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" alt="LinkedIn" width="32" style="margin-right:10px;" />
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" alt="LinkedIn Profile" width="32" style="margin-right:10px;" />
   </a>
   <a href="https://twitter.com/paki_jan" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" alt="Twitter" width="32" style="margin-right:10px;" />
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" alt="Twitter Profile" width="32" style="margin-right:10px;" />
   </a>
   <a href="https://www.instagram.com/rehman_coding/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" alt="Instagram" width="32" />
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" alt="Instagram Profile" width="32" />
   </a>
 </p>
 
+<br />
 
-<br>
-
-
-
-<h1> 👉  My updated 📫  <a href="https://muhrehman.github.io/Portfolio/resume"><b>Resume </b></a> is attached for your consideration.. </h1>
+<h2>Resume</h2>
+<p>
+  View my updated resume here:  
+  <a href="https://muhrehman.github.io/Portfolio/resume" target="_blank">
+    <strong>Click to Open Resume</strong>
+  </a>
+</p>
 
 
 
