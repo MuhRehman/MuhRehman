@@ -13,9 +13,7 @@ always passionate for learning more about tech and life..💻🎓</h1>
 <div></div>
 
 💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br>
-👉 Foodie 🍔🍕🍗🍲🍰....<br>
-👉 I 💕to play Football .⚽🏃<br>
-👉 Hustle for more muscle 💪<br><br>
+
 ![](https://komarev.com/ghpvc/?username=MuhRehman)
 [![YouTube Badge](https://img.shields.io/badge/-@Rehman%20Coding-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCfdtMAVyfgy7xqQKSYMowIQ)](https://www.youtube.com/channel/UCfdtMAVyfgy7xqQKSYMowIQ)
 [![Twitter Badge](https://img.shields.io/badge/-@Rehman_coding-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rehman_coding)](https://twitter.com/Rehman_coding)
@@ -23,8 +21,7 @@ always passionate for learning more about tech and life..💻🎓</h1>
 [![Linkedin Badge](https://img.shields.io/badge/-AbdulRehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)](https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)
 [![Gmail Badge](https://img.shields.io/badge/-abdulrehman1@aol.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulrehman1@aol.com)](mailto:abdulrehman1@aol.com)
 
-<img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
-<h1>Technologies & Languages</h1>
+<h6>Technologies & Languages</h6>
 <ul>
  <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
 ✅ HTML & CSS ( Tailwind , Bootstrap, Responsive, Flexbox, Animations)<br>
