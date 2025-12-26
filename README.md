@@ -70,37 +70,37 @@ always passionate for learning more about tech and life..💻🙋🎓</h1>
 
 Over the past five years, I’ve developed a range of front-end and UI-focused projects, including:
 
-1. Interactive Dashboards and Admin Panels
+<b>1. Interactive Dashboards and Admin Panels </b >
 
 Developed responsive, data-driven dashboards using React, Redux, and REST APIs.
 
 Implemented data visualization, real-time updates, and reusable components for analytics and reporting.
 
-2. E-Commerce Application Development
+<b>2. E-Commerce Application Development</b >
 
 Built product listing pages, shopping carts, and checkout workflows using React Hooks and React Router.
 
 Ensured mobile responsiveness and cross-browser compatibility using HTML5, CSS3, Flexbox, and CSS Grid.
 
-3. Company Portfolios and Business Websites
+<b>3. Company Portfolios and Business Websites</b >
 
 Created modern, SEO-friendly front-end interfaces using React, JavaScript, and Tailwind CSS.
 
 Converted Figma and Photoshop designs into pixel-perfect, high-performance web pages with smooth UI animations.
 
-4. Reusable UI Component Libraries
+<b>4. Reusable UI Component Libraries</b >
 
 Developed scalable and maintainable React component libraries using Storybook.
 
 Implemented UI frameworks including Bootstrap, Tailwind CSS, and Material UI to standardize design systems.
 
-5. Responsive and Accessible UI Development
+<b>5. Responsive and Accessible UI Development</b >
 
 Designed adaptive layouts using CSS Grid, Flexbox, and media queries.
 
 Improved website performance, accessibility, and load times across desktop and mobile devices.
 
-6. WordPress Theme Development and Page Builders
+<b>6. WordPress Theme Development and Page Builders</b >
 
 Developed custom WordPress themes and templates from scratch.
 
