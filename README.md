@@ -113,15 +113,18 @@ Optimized WordPress sites for performance, responsiveness, and SEO.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" alt="LinkedIn Profile" width="32" style="margin-right:10px;" />
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" width="32" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/paki_jan" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" alt="Twitter Profile" width="32" style="margin-right:10px;" />
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" width="32" alt="Twitter" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rehman_coding/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" alt="Instagram Profile" width="32" />
+    <img src="https://github.com/MuhRehman/MuhRehman/blob/master/instagram-icon.png" width="32" alt="Instagram" />
   </a>
 </p>
+
 
 <br />
 
