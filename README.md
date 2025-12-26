@@ -4,7 +4,7 @@
 <h1> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="40" height="40" >  </h1> 
 
 <h3> I'm <a href="https://muhrehman.github.io/Portfolio/">Abdul Rehman</a>  ... ! </h3>
-<img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/Rehman-timeline.jpg">
+<img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/github-profile-cover.png">
 <h1>
 always passionate for learning more about tech and life..💻🙋🎓</h1> 
 
