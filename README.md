@@ -21,9 +21,9 @@
 <h3>Technologies & Languages</h3>
 <ul>
  <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
-✅ HTML & CSS ( Tailwind , Bootstrap, Responsive, Flexbox, Animations)<br>
+✅ HTML & CSS ( Tailwind , Bootstrap, AntD, Responsive, Flexbox, Animations)<br>
 ✅ JavaScript ES6 (Vanilla, jQuery plugins, JSON)<br>
-✅ React (Hooks, Redux toolkit, Zustand, JSX, Vite, Webpack, Babel)<br>
+✅ React,Next.js (Hooks, Redux toolkit, Zustand, JSX, Vite, Webpack, Babel)<br>
 ✅ Node, JSON web token, Axios,<br>
 ✅ MongoDB  <br>
 ✅ Wordpress ( WordPress themes, Elementor , Divi Builder )  <br>
@@ -61,9 +61,9 @@
 
 
 
-💻 Types of Projects I’ve Worked On (React, HTML, CSS, JavaScript)
+💻 Types of Projects I’ve Worked On (, HTML, CSS, JavaScript, React.js, Next.js, AntD )
 
-Over the past five years, I’ve developed a range of front-end and UI-focused projects, including:
+Over the past 6+ years, I’ve developed a range of front-end and UI-focused projects, including:
 
 <b>1. Interactive Dashboards and Admin Panels </b >
 
@@ -125,7 +125,7 @@ Optimized WordPress sites for performance, responsiveness, and SEO.
 <h2>Resume</h2>
 <p>
   View my updated resume here:  
-  <a href="https://muhrehman.github.io/Portfolio/resume" target="_blank">
+  <a href="https://muhrehman.github.io/resume" target="_blank">
     <strong>Click to Open Resume</strong>
   </a>
 </p>
