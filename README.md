@@ -103,6 +103,10 @@ Built and customized websites using Elementor and Divi Builder.
 
 Optimized WordPress sites for performance, responsiveness, and SEO.
 
+[DocHyve]  : Healthcare platform where patients book appointments with doctors and providers manage their profiles.
+  Built provider onboarding forms (NPI lookup with auto-fill), doctor search with instant filtering, and a careers/application flow.
+  `Next.js 14` `Tailwind CSS` `Ant Design` · [Live](https://dochyve.com/)
+
 <h2>Connect with Me</h2>
 
 <p align="left">
