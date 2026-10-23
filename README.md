@@ -12,14 +12,18 @@
 💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br>
 
 ![](https://komarev.com/ghpvc/?username=MuhRehman)
-  <a href="https://wa.me/923035353488" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+
 [![YouTube Badge](https://img.shields.io/badge/-@Rehman%20Coding-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCfdtMAVyfgy7xqQKSYMowIQ)](https://www.youtube.com/channel/UCfdtMAVyfgy7xqQKSYMowIQ)
 [![Twitter Badge](https://img.shields.io/badge/-@Rehman_coding-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rehman_coding)](https://twitter.com/Rehman_coding)
 [![Instagram Badge](https://img.shields.io/badge/-@Rehman_Coding-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/rehman_coding)](https://instagram.com/rehman_coding) 
 [![Linkedin Badge](https://img.shields.io/badge/-AbdulRehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)](https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)
 [![Gmail Badge](https://img.shields.io/badge/-abdulrehman1@aol.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulrehman1@aol.com)](mailto:abdulrehman1@aol.com)
+
+<div> 
+  <a href="https://wa.me/923035353488" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
 
 <h3>Technologies & Languages</h3>
 <ul>
